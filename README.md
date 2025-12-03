@@ -1,10 +1,10 @@
 ## Hi there 👋
-# My name is Keanu, an aspiring Software Engineer
-# I am currently in junior colelge trying to transfer to Uni
-# I mainly work with ...
-# This is where my future projects will go ...
+### My name is Keanu, an aspiring Software Engineer
+### I am currently in junior colelge trying to transfer to Uni
+### I mainly work with ...
+### This is where my future projects will go ...
 
-# Maybe additional info !
+### Maybe additional info !
 
 <!--
 **2Takuma/2Takuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
