@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Keanu, an aspiring Software Engineer
-### I am currently in junior colelge trying to transfer to Uni
+### I am currently in junior college trying to transfer to Uni
 ### I mainly work with C++ and Java (maybe some other things?)
 ### This is where my future projects will go ...
 
