@@ -1,10 +1,10 @@
 ## Hi there 👋
 ### My name is Keanu, an aspiring Software Engineer
-### I am currently in junior college trying to transfer to Uni
-### I mainly work with C++ and Java (maybe some other things?)
-### This is where my future projects will go ...
-
-### Maybe additional info !
+### I am currently in junior college trying to transfer to Uni + more about me
+***
+### SKills / Tools 
+***
+### Projects
 
 <!--
 **2Takuma/2Takuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
