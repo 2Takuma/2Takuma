@@ -1,8 +1,9 @@
 ## Hi there 👋
 ### I'm Keanu, an aspiring computer or software engineer based in Southern California
 ### I am currently in junior college trying to transfer to UC Irvine or Cal Poly Pomona
+### This biography is currently a work in progress!
 ***
-### Skills / Tools (WIP)
+### Skills / Tools
 ***
 ### Projects
 
