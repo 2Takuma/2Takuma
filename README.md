@@ -4,7 +4,7 @@
 ### This biography is currently a work in progress!
 ***
 ### Skills / Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
 ***
 ### Projects
 
