@@ -3,8 +3,8 @@
 ### currently in junior college trying to transfer to UC Irvine or Cal Poly Pomona
 ### This biography is currently a work in progress!
 ***
-## Skills / Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,vscode,)](https://skillicons.dev)
+## <h1 align="center">Skills / Tools</h1>
+<h1 align="center">[![My Skills](https://skillicons.dev/icons?i=cpp,java,vscode,)](https://skillicons.dev)</h1>
 ***
 ## Projects
 
