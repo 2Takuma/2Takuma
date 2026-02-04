@@ -4,9 +4,9 @@
 ### This biography is currently a work in progress!
 ***
 ## <h1 align="center">Skills / Tools</h1>
-<p align="center>
-  [![My Skills](https://skillicons.dev/icons?i=cpp,java,vscode,)](https://skillicons.dev)
-  </p>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,vscode,)](https://skillicons.dev)
+
 ***
 ## Projects
 
