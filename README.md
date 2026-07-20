@@ -1,4 +1,4 @@
-# <h1 align="center">Hello there 👋</h1>
+# <h1>Hello there 👋</h1>
 
 <!--
 **2Takuma/2Takuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
