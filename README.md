@@ -1,14 +1,4 @@
-
-<!--
-# <h1 align="center">Hi there 👋 I'm Keanu</h1>
-## This bio is work in progress!
-***
-## <h1 align="center">Skills / Tools</h1>
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,vscode,)](https://skillicons.dev)
-
-## <h1 align="center"> Projects <h1>
-
-
+# <h1 align="center">Hello there 👋</h1>
 
 <!--
 **2Takuma/2Takuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
