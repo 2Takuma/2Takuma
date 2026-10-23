@@ -1,5 +1,5 @@
 # <h1>Hello there 👋</h1>
-Current student at California Polytechnic University, Pomona
+Current student at California Polytechnic University, Pomona \n
 Profile is a work in progress!
 
 
