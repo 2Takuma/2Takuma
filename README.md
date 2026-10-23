@@ -1,4 +1,8 @@
 # <h1>Hello there 👋</h1>
+Current student at California Polytechnic University, Pomona
+Profile is a work in progress!
+
+
 
 <!--
 **2Takuma/2Takuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
